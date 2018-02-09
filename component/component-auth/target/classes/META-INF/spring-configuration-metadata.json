@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.eg.egsc.common.component.auth.utils.WhiteResourceList",
+      "name": "egsc.config.auth.white",
+      "type": "com.eg.egsc.common.component.auth.utils.WhiteResourceList"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.eg.egsc.common.component.auth.utils.WhiteResourceList",
+      "name": "egsc.config.auth.white.list",
+      "type": "java.util.List<com.eg.egsc.common.component.auth.utils.WhiteResourceItem>"
+    }
+  ]
+}

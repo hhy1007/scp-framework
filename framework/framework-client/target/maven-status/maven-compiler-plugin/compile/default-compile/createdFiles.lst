@@ -1,0 +1,12 @@
+com/eg/egsc/framework/client/mq/BaseDefaultMqSender.class
+com/eg/egsc/framework/logservice/dto/LogDto.class
+com/eg/egsc/framework/client/dto/RequestDto.class
+com/eg/egsc/framework/client/mq/BaseIotbusMqSender.class
+com/eg/egsc/framework/client/core/BaseApiClient$1.class
+com/eg/egsc/framework/client/dto/BaseBusinessDto.class
+com/eg/egsc/framework/client/dto/Header.class
+com/eg/egsc/framework/client/core/BaseApiClient.class
+com/eg/egsc/framework/client/mq/BaseLogInterceptor.class
+com/eg/egsc/framework/client/dto/ResponseDto.class
+com/eg/egsc/framework/client/core/ClientConfig.class
+com/eg/egsc/framework/client/mq/LogserviceMqSender.class

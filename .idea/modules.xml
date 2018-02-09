@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/component/component.iml" filepath="$PROJECT_DIR$/component/component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-audit/component-audit.iml" filepath="$PROJECT_DIR$/component/component-audit/component-audit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-auth/component-auth.iml" filepath="$PROJECT_DIR$/component/component-auth/component-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-base/component-base.iml" filepath="$PROJECT_DIR$/component/component-base/component-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-job/component-job.iml" filepath="$PROJECT_DIR$/component/component-job/component-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-rabbitmq/component-rabbitmq.iml" filepath="$PROJECT_DIR$/component/component-rabbitmq/component-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-redis/component-redis.iml" filepath="$PROJECT_DIR$/component/component-redis/component-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-sequence/component-sequence.iml" filepath="$PROJECT_DIR$/component/component-sequence/component-sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/component-utils/component-utils.iml" filepath="$PROJECT_DIR$/component/component-utils/component-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework-client/framework-client.iml" filepath="$PROJECT_DIR$/framework/framework-client/framework-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework-dao/framework-dao.iml" filepath="$PROJECT_DIR$/framework/framework-dao/framework-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework-service/framework-service.iml" filepath="$PROJECT_DIR$/framework/framework-service/framework-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scp-framework.iml" filepath="$PROJECT_DIR$/.idea/scp-framework.iml" />
+    </modules>
+  </component>
+</project>

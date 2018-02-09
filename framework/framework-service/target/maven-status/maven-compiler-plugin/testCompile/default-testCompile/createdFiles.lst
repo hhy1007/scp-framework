@@ -1,0 +1,3 @@
+com/eg/egsc/framework/service/auth/filter/JWTUtilsTest.class
+com/eg/egsc/common/component/auth/utils/RequestIgnoreListTest.class
+com/eg/egsc/framework/service/auth/service/PermissionServiceTest.class

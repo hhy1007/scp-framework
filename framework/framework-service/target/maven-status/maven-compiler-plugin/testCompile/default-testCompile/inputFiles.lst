@@ -1,0 +1,3 @@
+/var/lib/jenkins/workspace/scp-framework/framework/framework-service/src/test/java/com/eg/egsc/framework/service/auth/service/PermissionServiceTest.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-service/src/test/java/com/eg/egsc/common/component/auth/utils/RequestIgnoreListTest.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-service/src/test/java/com/eg/egsc/framework/service/auth/filter/JWTUtilsTest.java

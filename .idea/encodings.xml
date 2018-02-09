@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/component" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-audit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-sequence" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/component-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework/framework-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework/framework-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework/framework-service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

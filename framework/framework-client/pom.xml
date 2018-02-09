@@ -1,0 +1,51 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.eg.egsc.framework</groupId>
+		<artifactId>framework</artifactId>
+		<version>1.0.1-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>framework-client</artifactId>
+	<packaging>jar</packaging>
+	<name>framework-client</name>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-eureka</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-feign</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.eg.egsc.component</groupId>
+			<artifactId>component-base</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.eg.egsc.component</groupId>
+			<artifactId>component-rabbitmq</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.eg.egsc.component</groupId>
+			<artifactId>component-sequence</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.eg.egsc.component</groupId>
+			<artifactId>component-auth</artifactId>
+		</dependency>		
+		<dependency>  
+		    <groupId>org.springframework.boot</groupId>  
+		    <artifactId>spring-boot-starter-aop</artifactId>  
+		</dependency>
+<!-- 		<dependency>
+			<groupId>com.eg.egsc.scp.logservice</groupId>
+			<artifactId>scp-logservice-component-client</artifactId>
+			<version>1.0.1-SNAPSHOT</version>
+		</dependency> -->
+	</dependencies>
+
+</project>

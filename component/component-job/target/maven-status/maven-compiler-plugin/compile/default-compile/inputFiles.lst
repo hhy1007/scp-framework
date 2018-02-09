@@ -1,0 +1,12 @@
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/support/AbstractJob.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/support/JobConfigService.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/support/SchedulerManager.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/support/JobMonitor.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/support/JobManager.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/model/BusinessJobConfig.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/listener/BusinessJobListener.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/JobRunner.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/support/BusinessJob.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/model/JobStatus.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/util/IPUtils.java
+/var/lib/jenkins/workspace/scp-framework/component/component-job/src/main/java/com/eg/egsc/common/component/job/support/QuartzAdapter.java

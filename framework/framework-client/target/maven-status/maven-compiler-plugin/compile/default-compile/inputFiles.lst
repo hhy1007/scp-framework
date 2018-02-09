@@ -1,0 +1,11 @@
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/mq/BaseDefaultMqSender.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/dto/Header.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/core/BaseApiClient.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/mq/LogserviceMqSender.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/logservice/dto/LogDto.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/mq/BaseLogInterceptor.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/mq/BaseIotbusMqSender.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/core/ClientConfig.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/dto/ResponseDto.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/dto/RequestDto.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-client/src/main/java/com/eg/egsc/framework/client/dto/BaseBusinessDto.java

@@ -1,0 +1,5 @@
+/var/lib/jenkins/workspace/scp-framework/component/component-audit/src/main/java/com/eg/egsc/common/component/audit/service/impl/AuditLogServiceImpl.java
+/var/lib/jenkins/workspace/scp-framework/component/component-audit/src/main/java/com/eg/egsc/common/component/audit/util/AuditUtil.java
+/var/lib/jenkins/workspace/scp-framework/component/component-audit/src/main/java/com/eg/egsc/common/component/audit/service/SendLogService.java
+/var/lib/jenkins/workspace/scp-framework/component/component-audit/src/main/java/com/eg/egsc/common/component/audit/service/AuditLogService.java
+/var/lib/jenkins/workspace/scp-framework/component/component-audit/src/main/java/com/eg/egsc/common/component/audit/dto/AuditLogDto.java

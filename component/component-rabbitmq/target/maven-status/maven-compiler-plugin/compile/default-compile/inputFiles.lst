@@ -1,0 +1,10 @@
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/DefaultRabbitConfig.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/RabbitConfig.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/IotbusRabbitConfig.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/BaseSender.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/IotbusSender.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/QueueConfig.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/LogserviceRabbitConfig.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/LogserviceSender.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/Properties.java
+/var/lib/jenkins/workspace/scp-framework/component/component-rabbitmq/src/main/java/com/eg/egsc/common/component/rabbitmq/DefaultSender.java

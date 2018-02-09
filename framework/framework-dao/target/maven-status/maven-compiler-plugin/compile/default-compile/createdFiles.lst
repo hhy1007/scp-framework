@@ -1,0 +1,14 @@
+com/eg/egsc/framework/dao/base/Config.class
+com/eg/egsc/framework/dao/intercepter/PaginationInterceptor.class
+com/eg/egsc/framework/dao/intercepter/PostgreSqlHelper.class
+com/eg/egsc/framework/dao/intercepter/CommonInterceptor.class
+com/eg/egsc/framework/paging/Page.class
+com/eg/egsc/framework/dao/base/BaseDao.class
+com/eg/egsc/framework/datasource/druid/MybatisPlusConfig.class
+com/eg/egsc/framework/dao/intercepter/DialectHelper.class
+com/eg/egsc/framework/paging/PageUtils.class
+com/eg/egsc/framework/dao/intercepter/Dialect.class
+com/eg/egsc/framework/dao/intercepter/Dialect$Type.class
+com/eg/egsc/framework/paging/PageInfo.class
+com/eg/egsc/framework/dao/intercepter/PostgreSqlDialect.class
+com/eg/egsc/framework/dao/intercepter/DialectHelperImpl.class

@@ -1,0 +1,13 @@
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/intercepter/DialectHelper.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/paging/PageUtils.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/datasource/druid/MybatisPlusConfig.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/intercepter/CommonInterceptor.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/intercepter/PaginationInterceptor.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/base/BaseDao.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/paging/PageInfo.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/base/Config.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/intercepter/DialectHelperImpl.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/intercepter/Dialect.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/intercepter/PostgreSqlDialect.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/paging/Page.java
+/var/lib/jenkins/workspace/scp-framework/framework/framework-dao/src/main/java/com/eg/egsc/framework/dao/intercepter/PostgreSqlHelper.java

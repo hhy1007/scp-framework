@@ -1,0 +1,15 @@
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/CollectionUtil.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/JsonUtil.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/InjectionAttackUtils.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/JVMTimeUtils.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/DateUtil.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/ExceptionUtil.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/exception/BaseException.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/exception/CommonException.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/ByteUtil.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/DateUtils.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/BigDecimalUtil.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/HttpClientUtils.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/BeanUtils.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/Base64.java
+/var/lib/jenkins/workspace/scp-framework/component/component-utils/src/main/java/com/eg/egsc/common/component/utils/LogbackUtils.java

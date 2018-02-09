@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="component-audit" />
+        <module name="component-auth" />
+        <module name="component-base" />
+        <module name="component-job" />
+        <module name="component-rabbitmq" />
+        <module name="component-redis" />
+        <module name="component-sequence" />
+        <module name="component-utils" />
+        <module name="framework-client" />
+        <module name="framework-dao" />
+        <module name="framework-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="component" target="1.8" />
+      <module name="component-audit" target="1.8" />
+      <module name="component-auth" target="1.8" />
+      <module name="component-base" target="1.8" />
+      <module name="component-job" target="1.8" />
+      <module name="component-rabbitmq" target="1.8" />
+      <module name="component-redis" target="1.8" />
+      <module name="component-sequence" target="1.8" />
+      <module name="component-utils" target="1.8" />
+      <module name="framework" target="1.8" />
+      <module name="framework-client" target="1.8" />
+      <module name="framework-dao" target="1.8" />
+      <module name="framework-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
